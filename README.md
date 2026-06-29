@@ -26,7 +26,3 @@ I approached debugging by testing the application after making small changes ins
 ### Where did you have to be innovative to overcome a challenge in the full application development process?
 
 One challenge was adapting existing code to meet the project requirements while maintaining functionality. I had to think critically about how different sections of the application interacted and make changes without introducing new errors. By testing frequently and making incremental improvements, I was able to successfully complete the application while meeting the project requirements.
-
-## AI Acknowledgment
-
-Generative AI (ChatGPT) was used to assist with improving the wording, organization, and grammar of this reflection. All application development, testing, code modifications, and final review were completed by me.
